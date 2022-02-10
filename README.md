@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello 👋🏻
+
+- 🔮 I'm a mobile app developer
+- 🌻 Sunflowers are cool
+- 🙏🏻 Pray for my apps TestFlight approval
 
 <!--
 **Nickolans/nickolans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
