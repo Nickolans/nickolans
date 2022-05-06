@@ -4,6 +4,8 @@
 - 🌻 Sunflowers are cool
 - 🙏🏻 Pray for my apps TestFlight approval
 
+[Check out my packages here!](https://www.npmjs.com/~nickolans)
+
 <!--
 **Nickolans/nickolans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
