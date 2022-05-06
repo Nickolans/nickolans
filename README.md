@@ -1,8 +1,10 @@
-### Hello 👋🏻
+## Hello 👋🏻
 
 - 🔮 I'm a mobile app developer
 - 🌻 Sunflowers are cool
 - 🙏🏻 Pray for my apps TestFlight approval
+
+## Packages
 
 [Check out my packages here!](https://www.npmjs.com/~nickolans)
 
