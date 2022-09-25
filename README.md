@@ -1,8 +1,6 @@
 ## Hello 👋🏻
 
 - 🔮 I'm a mobile app developer
-- 🌻 Sunflowers are cool
-- 🙏🏻 Pray for my apps App Store approval
 
 ## Packages
 
