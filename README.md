@@ -1,11 +1,15 @@
-## Hello 👋🏻
+# Hello 👋🏻
 
-- 🔮 I'm a mobile app developer
+Hello! I'm Nick. I work extensively with mobile platforms including iOS, cross-platform, and Android. I also have an interest in other technologies such as cloud and web development. 🧑‍💻
 
-### iOS Apps
+# Projects
+| Project      | Link | Description | Tech Stack |
+| ----------- | ----------- | ----------- | ----------- |
+| <img src="https://sheetcheat.io/assets/logo-9bde5576.svg"  width="100" height="50" />     | [sheetcheat.io](https://sheetcheat.io) | SheetCheat allows you to store and quickly reference cheatsheets. | React, SASS, Firebase, Google Cloud Functions, AWS |
+| EasyBLE    | [GitHub](https://github.com/Nickolans/EasyBLE) | Swift BLE Library using CoreBluetooth and Combine for handling of asynchronous Bluetooth events.  | Swift, Combine, CoreBluetooth |
 
-[SheetCheat](https://github.com/Nickolans/Sheetcheat-xOS)
-
+# Get in Touch
+- Website: https://nickolans.com
 <!--
 **Nickolans/nickolans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
