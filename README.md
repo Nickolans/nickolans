@@ -1,6 +1,6 @@
 # Hello 👋🏻
 
-Hello! I'm Nick. I work extensively with mobile platforms including iOS, cross-platform, and Android. I also have an interest in other technologies such as cloud and web development. 🧑‍💻
+Hello! I'm Nick. I work extensively with mobile platforms including iOS, Android, and React Native. I also have an interest in other technologies such as cloud and web development. 🧑‍💻
 
 # Projects
 | Project      | Link | Description | Tech Stack |
