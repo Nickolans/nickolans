@@ -1,12 +1,6 @@
 # Hello 👋🏻
 
-Hello! I'm Nick. I work extensively with mobile platforms including iOS, Android, and React Native. I also have an interest in other technologies such as cloud and web development. 🧑‍💻
-
-# Projects
-| Project      | Link | Description | Tech Stack |
-| ----------- | ----------- | ----------- | ----------- |
-| <img src="https://sheetcheat.io/assets/logo-9bde5576.svg"  width="100" height="50" />     | [sheetcheat.io](https://sheetcheat.io) | SheetCheat allows you to store and quickly reference cheatsheets. | React, SASS, Firebase, Google Cloud Functions, AWS |
-| EasyBLE    | [GitHub](https://github.com/Nickolans/EasyBLE) | Swift BLE Library using CoreBluetooth and Combine for handling of asynchronous Bluetooth events.  | Swift, Combine, CoreBluetooth |
+Hello! I'm Nick. I work extensively with mobile platforms including iOS, Android, and React Native. 🧑‍💻
 
 # Get in Touch
 - Website: https://nickolans.com
