@@ -2,9 +2,9 @@
 
 Hello! I'm Nick. I work extensively with platforms such as iOS and macOS.
 
-### Checkout My Apps
+## Checkout My Apps
 
-<div
+<!-- <div
   align="left"
   style="
     display: flex;
@@ -82,4 +82,26 @@ Hello! I'm Nick. I work extensively with platforms such as iOS and macOS.
       style="border-radius: 10px; width: 150px; height: 50px"
   /></a>
 
-</div>
+</div> -->
+
+<!-- [![Orbit: AI Goal Planner](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a5/a5/bb/a5a5bb6a-2f33-e3c6-42e8-3f3aaf5460f9/AppIcon-0-0-1x_U007ephone-0-85-220.png/540x540bb.jpg)](https://apps.apple.com/us/app/orbit-ai-goal-planner/id6471321859?itsct=apps_box_badge&itscg=30200) -->
+
+<img
+  src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a5/a5/bb/a5a5bb6a-2f33-e3c6-42e8-3f3aaf5460f9/AppIcon-0-0-1x_U007ephone-0-85-220.png/540x540bb.jpg"
+  alt="Orbit: AI Goal Planner"
+  style="
+    min-width: 50px;
+    height: 50px;
+    border-radius: 22%;
+    overflow: hidden;
+    display: inline-block;
+    vertical-align: middle;
+    aspect-ratio: 1;
+  "
+/>
+
+**Orbit: AI Goal Planner**
+
+Unlock your full potential with Orbit, the intelligent companion that transforms your ambitions into actionable steps.
+
+[![Download on the App Store](test.png)](https://apps.apple.com/us/app/orbit-ai-goal-planner/id6471321859?itsct=apps_box_badge&itscg=30200)
